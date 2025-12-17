@@ -40,8 +40,8 @@ hardik-handy-craft/
 
 <section id="contact" class="section">
   <h2>Contact Us</h2>
-  <p>📞 WhatsApp: <strong>+91XXXXXXXXXX</strong></p>
-  <a class="btn" href="https://wa.me/91XXXXXXXXXX">Chat on WhatsApp</a>
+  <p>📞 WhatsApp: <strong>+916376768509</strong></p>
+  <a class="btn" href="https://wa.me/916376768509">Chat on WhatsApp</a>
 </section>
 
 <footer>
@@ -76,7 +76,7 @@ hardik-handy-craft/
       <img src="https://via.placeholder.com/300" alt="Wooden Krishna Idol">
       <h3>Wooden Krishna Idol – 12 Inch</h3>
       <p>Hand-carved from premium quality wood.</p>
-      <a class="btn" href="https://wa.me/91XXXXXXXXXX?text=Interested%20in%20Wooden%20Krishna%20Idol">
+      <a class="btn" href="https://wa.me/916376768509?text=Interested%20in%20Wooden%20Krishna%20Idol">
         Enquire on WhatsApp
       </a>
     </div>
@@ -85,7 +85,7 @@ hardik-handy-craft/
       <img src="https://via.placeholder.com/300" alt="Wooden Ganesh Idol">
       <h3>Wooden Ganesh Idol – 10 Inch</h3>
       <p>Traditional design with smooth finish.</p>
-      <a class="btn" href="https://wa.me/91XXXXXXXXXX?text=Interested%20in%20Wooden%20Ganesh%20Idol">
+      <a class="btn" href="https://wa.me/916376768509?text=Interested%20in%20Wooden%20Ganesh%20Idol">
         Enquire on WhatsApp
       </a>
     </div>

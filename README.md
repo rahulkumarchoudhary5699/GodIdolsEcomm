@@ -1,4 +1,4 @@
-# GodIdolsEcomm
+               # GodIdolsEcomm
 E-commerce platform for God Idols, offering all modern features and functionalities.
 hardik-handy-craft/
 ├── index.html

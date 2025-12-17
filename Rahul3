@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Products | Hardik Handy Craft</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <div class="logo">Hardik Handy Craft</div>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="products.html">Products</a>
+  </nav>
+</header>
+
+<section class="section">
+  <h2>Our Wooden Idols</h2>
+
+  <div class="products">
+
+    <div class="product-card">
+      <img src="https://via.placeholder.com/300" alt="Wooden Krishna Idol">
+      <h3>Wooden Krishna Idol – 12 Inch</h3>
+      <p>Hand-carved from premium quality wood.</p>
+      <a class="btn" href="https://wa.me/916376768509?text=Interested%20in%20Wooden%20Krishna%20Idol">
+        Enquire on WhatsApp
+      </a>
+    </div>
+
+    <div class="product-card">
+      <img src="https://via.placeholder.com/300" alt="Wooden Ganesh Idol">
+      <h3>Wooden Ganesh Idol – 10 Inch</h3>
+      <p>Traditional design with smooth finish.</p>
+      <a class="btn" href="https://wa.me/916376768509?text=Interested%20in%20Wooden%20Ganesh%20Idol">
+        Enquire on WhatsApp
+      </a>
+    </div>
+
+  </div>
+</section>
+
+<footer>
+  <p>© 2025 Hardik Handy Craft</p>
+</footer>
+
+</body>
+</html>

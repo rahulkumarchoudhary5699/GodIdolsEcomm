@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Hardik Handy Craft | Wooden God Idols</title>
+  <meta name="description" content="Handcrafted wooden god idols made by skilled Indian artisans.">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <div class="logo">Hardik Handy Craft</div>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="products.html">Products</a>
+    <a href="#about">About</a>
+    <a href="#contact">Contact</a>
+  </nav>
+</header>
+
+<section class="hero">
+  <h1>Handcrafted Wooden God Idols</h1>
+  <p>Pure wood • Traditional carving • Made in India</p>
+  <a class="btn" href="products.html">View Products</a>
+</section>
+
+<section id="about" class="section">
+  <h2>About Us</h2>
+  <p>
+    Hardik Handy Craft creates premium wooden god idols crafted by experienced artisans.
+    Every piece reflects devotion, tradition, and quality workmanship.
+  </p>
+</section>
+
+<section id="contact" class="section">
+  <h2>Contact Us</h2>
+  <p>📞 WhatsApp: <strong>+91XXXXXXXXXX</strong></p>
+  <a class="btn" href="https://wa.me/91XXXXXXXXXX">Chat on WhatsApp</a>
+</section>
+
+<footer>
+  <p>© 2025 Hardik Handy Craft. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
